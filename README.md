@@ -31,9 +31,9 @@ Built using Plotly for dynamic and responsive charts:
 - Data scaling using StandardScaler
 - Model evaluation using RMSE
 - Forecasts next 30 days closing prices
-Results are displayed in:
+## Results are displayed in:
 - Forecast tables
--Forecast line charts with historical comparison
+- Forecast line charts with historical comparison
 ## User-Friendly Streamlit Dashboard
 - Multi-page Streamlit application:
 - Stock Overview
