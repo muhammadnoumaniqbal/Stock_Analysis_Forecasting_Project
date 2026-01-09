@@ -42,8 +42,8 @@ Multi-page Streamlit application:
 Interactive inputs for ticker symbols and date ranges
 Clean and responsive UI layout
 ## Tech Stack & Libraries
-Python | Streamlit | yfinance | Pandas | NumPy | Plotly
-statsmodels (ARIMA) | scikit-learn | pandas_ta/ta
+Python | Streamlit | yfinance | Pandas | NumPy | Plotly |
+ statsmodels (ARIMA) | scikit-learn | pandas_ta/ta
 ## Sample Stocks Analyzed
 - TSLA (Tesla)
 - AAPL (Apple)
