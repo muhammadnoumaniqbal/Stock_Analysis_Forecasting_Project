@@ -8,7 +8,7 @@ This application allows users to:
 - Apply technical indicators
 - Forecast stock closing prices for the next 30 days using a Time Series ARIMA model
 The app supports popular stocks like TSLA, AAPL, and AMZN and provides an intuitive, interactive dashboard experience.
-##Features
+## Features
 Stock Information
 - Real-time and historical stock data using Yahoo Finance (yfinance)
 - Company fundamentals:
