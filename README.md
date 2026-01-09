@@ -66,6 +66,4 @@ This project helped me gain hands-on experience in:
 I am open to Internship & Entry-Level opportunities in Data Science & Machine Learning.
 Feedback and suggestions are always welcome!
 ## Author
-- Muhammad Nouman IqbalRIMA)
-scikit-learn
-pandas_ta / ta
+- Muhammad Nouman Iqbal
