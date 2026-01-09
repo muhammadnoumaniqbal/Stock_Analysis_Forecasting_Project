@@ -35,22 +35,15 @@ Built using Plotly for dynamic and responsive charts:
 - Forecast tables
 - Forecast line charts with historical comparison
 ## User-Friendly Streamlit Dashboard
-- Multi-page Streamlit application:
+Multi-page Streamlit application:
 - Stock Overview
 - Stock Analysis
 - Stock Prediction
 Interactive inputs for ticker symbols and date ranges
 Clean and responsive UI layout
-##Tech Stack & Libraries
-Python
-Streamlit
-yfinance
-Pandas
-NumPy
-Plotly
-statsmodels (ARIMA)
-scikit-learn
-pandas_ta/ta
+## Tech Stack & Libraries
+Python | Streamlit | yfinance | Pandas | NumPy | Plotly
+statsmodels (ARIMA) | scikit-learn | pandas_ta/ta
 ## Sample Stocks Analyzed
 - TSLA (Tesla)
 - AAPL (Apple)
